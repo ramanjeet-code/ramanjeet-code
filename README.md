@@ -87,4 +87,7 @@
 	<a href="https://wa.me/9354185068" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/raman0001/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	
-</p>
+
+<div id="header" align="center">
+ <a href="https://gzbsingh.github.io/"> <img src="https://image.shutterstock.com/image-vector/portfolio-word-banner-vector-illustration-260nw-1200433627.jpg" width="100"/></a>
+</div></p>
