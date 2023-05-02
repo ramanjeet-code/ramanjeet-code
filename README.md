@@ -1,12 +1,18 @@
 
 <h1 align="center">Hi , I'm Ramanjeet Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gzbsingh&label=Profile%20views&color=0e75b6&style=flat" alt="gzbsinghcode" /> </p>
 </p>
 <hr/>
-<h5 align="center">I am a Full stack web developer. I like to Code and experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h3 align="center">I am a Full stack web developer. I like to Code and experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 <br>
+ I’m currently learning **Java | Spring | Spring Boot | Hibernate**
 
+- 💬 Ask me about **Java backend | MySQL | Spring Boot**
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://gzbsingh.github.io/)**
+
+- 📫 How to reach me **gentalman1945@gmail.com**
 
 
 ## 🛠️ My Skills
