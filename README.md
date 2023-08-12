@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gzbsingh&label=Profile%20views&color=0e75b6&style=flat" alt="gzbsinghcode" /> </p>
 </p>
 <hr/>
-<h3 align="center">I am a Full stack web developer. I like to Code and experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center">A passionate Java Backend developer from India. I like to Code and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 <br>
  I’m currently learning **Java | Spring | Spring Boot | Hibernate**
 
