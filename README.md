@@ -80,9 +80,9 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
- <!-- GitHub Activity Graph -->
-<!-- <img src="https://ghchart.rshah.org/013220/gzbsingh" alt="gzbsingh's Blue Github Chart" />
- -->
+<!--  GitHub Activity Graph --> 
+ <img src="https://ghchart.rshah.org/013220/gzbsingh" alt="gzbsingh's Blue Github Chart" />
+
 <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gzbsingh&theme=merko"/>-->
 
 
