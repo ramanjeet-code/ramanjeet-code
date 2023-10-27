@@ -17,19 +17,36 @@
 
 ## 🛠️ My Skills
 
-### 👉 Frontend Development
+###  Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+<!--   <a href="https://www.w3.org/html/" target="_blank">  -->
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+<!--   <a href="https://www.w3schools.com/css/" target="_blank"> -->
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  -->
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+	&emsp;
+
+</p>
+   Backend Development
+<p align="center"> 
+  &emsp; 
+<!--   <a href="https://www.w3.org/html/" target="_blank">  -->
+   <img alt="Java" src="https://static.vecteezy.com/system/resources/previews/022/100/945/original/java-logo-transparent-free-png.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="50px">
+  </a>   
+  &emsp;
+<!--   <a href="https://www.w3schools.com/css/" target="_blank"> -->
+    <img alt="MySql" src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="/ 50px">
+  </a> 
+	&emsp;
+<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  -->
+     <img alt="Spring" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="50px" style="background-color=black ">
    </a>
 	&emsp;
 
@@ -37,19 +54,15 @@
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gzbsingh&theme=merko" alt="Ramanjeet Singh" /></p>
- ### 👉 Software & Tools
- 
+ ### 👉Tools
 <p align="center">
   &emsp;
-   
-  &emsp;
-    <a href="github.com/gzbsingh"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-  
-  &emsp;
+    <a href="github.com/gzbsingh"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a> 
+   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+     
 </p>
 
  ### 👉 IDEs
