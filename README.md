@@ -13,7 +13,9 @@
 - 👨‍💻 All of my projects are available at **[Portfolio](https://gzbsingh.github.io/)**
 
 - 📫 How to reach me **gentalman1945@gmail.com**
-
+<a href="https://wa.me/9354185068" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/raman0001/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
 
 ## 🛠️ My Skills
 
