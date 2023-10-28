@@ -42,11 +42,11 @@
   </a>   
   &emsp;
 <!--   <a href="https://www.w3schools.com/css/" target="_blank"> -->
-    <img alt="MySql" src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="/ 50px">
+    <img alt="MySql" src="https://i0.wp.com/howtolearn.me/wp-content/uploads/2014/04/MySQL-Logo.jpg?ssl=1?style=plastic&logo=javascript&logoColor=black" width="50px" height="/ 50px">
   </a> 
 	&emsp;
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  -->
-     <img alt="Spring" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="50px" style="background-color=black ">
+     <img alt="Spring" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="30px" style="background-color=black ">
    </a>
 	&emsp;
 
@@ -71,7 +71,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Atom" src="https://www.preemptive.com/wp-content/uploads/2022/05/SP-work.png?&style=plastic&logo=atom&logoColor=white" width="50px" height="50px" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
