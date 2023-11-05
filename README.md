@@ -3,6 +3,7 @@
 <p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gzbsingh&label=Profile%20views&color=0e75b6&style=flat" alt="gzbsinghcode" /> </p>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gzbsingh" alt="gzbsingh" /></a> </p>
 <hr/>
 <h3 align="center">A passionate Java Backend developer from India. I like to Code and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 <br>
@@ -12,6 +13,9 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://gzbsingh.github.io/)**
 
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1laqk75epdlckJ7rXuXR2RMe-zueVxQfB/view?usp=drivesdk](https://drive.google.com/file/d/1laqk75epdlckJ7rXuXR2RMe-zueVxQfB/view?usp=drivesdk
+  
 - 📫 How to reach me **gentalman1945@gmail.com**
 <a href="https://wa.me/9354185068" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/raman0001/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
