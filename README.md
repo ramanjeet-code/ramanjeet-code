@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at **[Portfolio](https://ramanjeet-code.github.io/ramanjeet.me/)**
 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XUXhO1m5SKSJLHMKoIvDVlTCm50Uf3FB/view?usp=sharing" target="blank">Resume</a>  
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1laqk75epdlckJ7rXuXR2RMe-zueVxQfB/view" target="blank">Resume</a>  
 - 📫 How to reach me **gentalman1945@gmail.com**
 <a href="https://wa.me/9354185068" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 <a href="https://www.linkedin.com/in/raman0001/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
